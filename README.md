@@ -1,3 +1,6 @@
+### Excel practice collection 
+
+Data Analysis with excel demos.
 
 CarSalesByModel - Data Source:
 https://www.kaggle.com/gagandeep16/car-sales
